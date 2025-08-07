@@ -45,5 +45,4 @@ ollama/
 *.html
 
 # Local test files
-examples/
 test_output/
