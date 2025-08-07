@@ -1,0 +1,49 @@
+# Bytecode and Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*.bak
+*.tmp
+.vscode/
+.idea/
+
+# Logs and output
+*.log
+*.out
+*.err
+
+# Model-related cache or temp
+*.bin
+*.pt
+*.onnx
+*.gguf
+*.cache/
+ollama.db
+ollama/
+
+# Output artifacts
+*.zip
+*.tar.gz
+*.mdump
+*.json
+*.csv
+*.md
+*.html
+
+# Local test files
+examples/
+test_output/
