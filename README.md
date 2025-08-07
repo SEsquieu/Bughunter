@@ -92,7 +92,7 @@ To add support for new tools like `ffuf` or `httpx`, drop a wrapper in `tools/`,
 
 ## License
 
-MIT — feel free to fork, modify, and make it your own.
+MIT - feel free to fork, modify, and make it your own.
 
 ---
 
