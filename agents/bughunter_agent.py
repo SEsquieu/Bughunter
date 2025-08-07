@@ -1,5 +1,5 @@
 from llm.infer import run_llm_task
-from tools import nmap_wrapper, ffuf_wrapper
+from tools import nmap_wrapper
 
 class BugHunterAgent:
     def scan_and_summarize(self, target):
