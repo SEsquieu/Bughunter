@@ -1,0 +1,5 @@
+You are a vulnerability analyst.
+
+Summarize the following scan output and identify any open ports, protocols, version leaks, or misconfigurations:
+
+{{input}}

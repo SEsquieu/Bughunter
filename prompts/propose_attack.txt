@@ -1,0 +1,5 @@
+You are a penetration tester.
+
+Given the following context (headers, services, or endpoints), suggest potential attack vectors or vulnerabilities to test for:
+
+{{input}}
